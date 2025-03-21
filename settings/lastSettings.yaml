@@ -1,0 +1,21 @@
+Ny: 256
+Nz: 32
+channelHeight: 1.0
+channelWidth: 2.0
+errorTolerance: 1.0e-12
+flowRate: 2000.0
+maxCoshArgument: 500.0
+maximumSummationCutoff: 4096
+minimumSummationCutoff: 64
+numberOfSessions: 89
+pathToLUT: C:\python scripts\HagenPoiseuilleViewer\LUT\2DCrossSections.hdf5
+pathToSettingsFile: default
+unitFlowRate: 0
+viscosity: 0.001002
+windowSize:
+- 489
+- 84
+- 1182
+- 753
+y0: 0.0
+z0: 0.0
